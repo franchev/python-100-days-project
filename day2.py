@@ -1,3 +1,4 @@
+# tip calculator
 print("Welcome to the tip Calculator.")
 
 bill = float(input("What was the total bill? $ "))
